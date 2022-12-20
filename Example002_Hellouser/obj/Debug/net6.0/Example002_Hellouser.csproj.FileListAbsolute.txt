@@ -1,0 +1,15 @@
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\bin\Debug\net6.0\Example002_Hellouser.exe
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\bin\Debug\net6.0\Example002_Hellouser.deps.json
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\bin\Debug\net6.0\Example002_Hellouser.runtimeconfig.json
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\bin\Debug\net6.0\Example002_Hellouser.dll
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\bin\Debug\net6.0\Example002_Hellouser.pdb
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.csproj.AssemblyReference.cache
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.AssemblyInfoInputs.cache
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.AssemblyInfo.cs
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.csproj.CoreCompileInputs.cache
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.dll
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\refint\Example002_Hellouser.dll
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.pdb
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\Example002_Hellouser.genruntimeconfig.cache
+C:\Users\Н\Documents\женя\geek brains\examples\Example002_Hellouser\obj\Debug\net6.0\ref\Example002_Hellouser.dll
