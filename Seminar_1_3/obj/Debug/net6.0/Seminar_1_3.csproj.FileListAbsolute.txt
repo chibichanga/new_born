@@ -1,0 +1,15 @@
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\bin\Debug\net6.0\Seminar_1_3.exe
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\bin\Debug\net6.0\Seminar_1_3.deps.json
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\bin\Debug\net6.0\Seminar_1_3.runtimeconfig.json
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\bin\Debug\net6.0\Seminar_1_3.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\bin\Debug\net6.0\Seminar_1_3.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.csproj.AssemblyReference.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.AssemblyInfoInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.AssemblyInfo.cs
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.csproj.CoreCompileInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\refint\Seminar_1_3.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\Seminar_1_3.genruntimeconfig.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_1_3\obj\Debug\net6.0\ref\Seminar_1_3.dll
