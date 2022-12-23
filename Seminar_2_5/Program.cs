@@ -3,11 +3,13 @@
 // 14 -> нет, 46 -> нет, 161 -> да.
 
 
-int num = new Random().Next(10,1000);
+int num1 = new Random().Next(10,1000);
+Console.WriteLine(num1);
 
-Console.WriteLine(num);
+int num2 = new Random().Next(10,1000);
+Console.WriteLine(num2);
 
-if ((num%7 == 0)&&(num%23 == 0))
+if ((num1 == num2*num2) || (num2 == num1*num1))
 {
     Console.WriteLine("Да");
 }
