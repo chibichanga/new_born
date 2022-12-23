@@ -3,16 +3,16 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-int num = new Random().Next(10,1000);
+int num = new Random().Next(10,10000);
 Console.WriteLine(num);
 
-int result = num/100;
+string aNum = Convert.ToString(num);
 
-if (result == 0)
+if (aNum.Length>2)
 {
-    Console.WriteLine("третьей цифры нет");
+    Console.WriteLine(aNum[2]);
 }
 else
 {
-Console.WriteLine(result);
+Console.WriteLine("Третьей цифры нет!");
 }
