@@ -56,10 +56,10 @@ int num3 = Convert.ToInt32 (Console.ReadLine());
 string aNum = Convert.ToString(num3);
 
 if (aNum[0] == aNum[4] && aNum[1] == aNum[3])
-{
+    {
     Console.WriteLine ("Да");
-}
+    }
 else
-{
+    {
     Console.WriteLine ("Нет");
-}
+    }
