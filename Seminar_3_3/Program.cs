@@ -12,3 +12,9 @@ while (num2 <= num1)
     num2 = num2 + 1;
 }
 
+// второй вариант
+
+for(int i=1; i<=num1; i++)
+{
+    Console.WriteLine (i*i);
+}
