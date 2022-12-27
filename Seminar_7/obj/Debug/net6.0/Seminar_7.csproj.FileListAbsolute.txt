@@ -1,0 +1,15 @@
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.csproj.AssemblyReference.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.AssemblyInfoInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.AssemblyInfo.cs
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.csproj.CoreCompileInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\bin\Debug\net6.0\Seminar_7.exe
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\bin\Debug\net6.0\Seminar_7.deps.json
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\bin\Debug\net6.0\Seminar_7.runtimeconfig.json
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\bin\Debug\net6.0\Seminar_7.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\bin\Debug\net6.0\Seminar_7.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\refint\Seminar_7.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\Seminar_7.genruntimeconfig.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Seminar_7\obj\Debug\net6.0\ref\Seminar_7.dll
