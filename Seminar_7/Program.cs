@@ -102,7 +102,7 @@ Console.WriteLine ("Введите количиство строк для мар
 int rows3 = Convert.ToInt32 (Console.ReadLine());
 
 Console.WriteLine ("Введите количиство стоблцов для мартицы 3");
-int columns3= Convert.ToInt32 (Console.ReadLine());
+int columns3 = Convert.ToInt32 (Console.ReadLine());
 
 int [,] matrix3 = new int [rows3,columns3]; 
 int sum = 0;
