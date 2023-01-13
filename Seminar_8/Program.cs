@@ -57,19 +57,19 @@ PrintArray(ChageRows(matrix));
 // программа должна вывести сообщение для пользователя.
 
 Console.WriteLine("Введите количество строчек");
-int rows = Convert.ToInt32(Console.ReadLine());
+int rows1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов");
-int columns = Convert.ToInt32(Console.ReadLine());
+int columns1 = Convert.ToInt32(Console.ReadLine());
 
-if (rows!=columns)
+if (rows1!=columns1)
 {
     Console.WriteLine("Массив не подходит");
     return;
 }
 
-int [,] GetArray()
+int [,] GetArray1()
 {
-    int[,] result= new int [rows,columns];
+    int[,] result= new int [rows1,columns1];
     for (int i = 0; i < result.GetLength(0); i++)
     {
         for (int j = 0; j < result.GetLength(1); j++)
@@ -91,7 +91,7 @@ int [,] ChageArray(int[,] result)
     }
     return array_2;
 }
-void PrintArray(int[,] result)
+void PrintArray1(int[,] result)
 {
     for (int i = 0; i < result.GetLength(0); i++)
     {
@@ -103,12 +103,12 @@ void PrintArray(int[,] result)
         Console.WriteLine();
     }
 }
-int [,] matrix= GetArray();
-PrintArray(matrix);
+int [,] matrix1= GetArray1();
+PrintArray1(matrix1);
 
 Console.WriteLine();
 
-PrintArray(ChageArray(matrix));
+PrintArray1(ChageArray(matrix1));
 
 /// Задача 59: Задайте двумерный массив из целых чисел.
 //  Напишите программу, которая удалит строку и столбец
@@ -122,16 +122,16 @@ PrintArray(ChageArray(matrix));
 // следующий массив:
 
 Console.WriteLine("Введите количество строчек");
-int rows = Convert.ToInt32(Console.ReadLine());
+int rows2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов");
-int columns = Convert.ToInt32(Console.ReadLine());
+int columns2 = Convert.ToInt32(Console.ReadLine());
 
 int minValue=int.MaxValue;
 int minIndexRows=0;
 int minIndexCol=0;
-int [,] GetArray()
+int [,] GetArray2()
 {
-    int[,] result= new int [rows,columns];
+    int[,] result= new int [rows2,columns2];
     for (int i = 0; i < result.GetLength(0); i++)
     {
         for (int j = 0; j < result.GetLength(1); j++)
@@ -147,7 +147,7 @@ int [,] GetArray()
     }
     return result;
 }
-void ChageArray(int[,] result)
+void ChageArray2(int[,] result)
 {
     
     for (int i = 0; i < result.GetLength(0); i++)
@@ -169,7 +169,7 @@ void ChageArray(int[,] result)
     }
     
 }
-void PrintArray(int[,] result)
+void PrintArray2(int[,] result)
 {
     for (int i = 0; i < result.GetLength(0); i++)
     {
@@ -181,9 +181,9 @@ void PrintArray(int[,] result)
         Console.WriteLine();
     }
 }
-int [,] matrix= GetArray();
-PrintArray(matrix);
+int [,] matrix2= GetArray2();
+PrintArray2(matrix2);
 
 Console.WriteLine();
 
-ChageArray(matrix);
+ChageArray2(matrix2);
