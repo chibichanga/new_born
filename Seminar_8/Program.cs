@@ -140,8 +140,8 @@ int [,] GetArray2()
             if ( result[i,j]<minValue)
             {
                 minValue= result[i,j];
-                int minIndexRows=i;
-                int minIndexCol=j;
+                minIndexRows=i;
+                minIndexCol=j;
             }
         }
     }
