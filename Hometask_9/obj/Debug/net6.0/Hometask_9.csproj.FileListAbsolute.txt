@@ -1,0 +1,15 @@
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\bin\Debug\net6.0\Hometask_9.exe
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\bin\Debug\net6.0\Hometask_9.deps.json
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\bin\Debug\net6.0\Hometask_9.runtimeconfig.json
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\bin\Debug\net6.0\Hometask_9.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\bin\Debug\net6.0\Hometask_9.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.csproj.AssemblyReference.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.AssemblyInfoInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.AssemblyInfo.cs
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.csproj.CoreCompileInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\refint\Hometask_9.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\Hometask_9.genruntimeconfig.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Hometask_9\obj\Debug\net6.0\ref\Hometask_9.dll
