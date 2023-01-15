@@ -1,0 +1,15 @@
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\bin\Debug\net6.0\Prodact_1.exe
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\bin\Debug\net6.0\Prodact_1.deps.json
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\bin\Debug\net6.0\Prodact_1.runtimeconfig.json
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\bin\Debug\net6.0\Prodact_1.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\bin\Debug\net6.0\Prodact_1.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.csproj.AssemblyReference.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.AssemblyInfoInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.AssemblyInfo.cs
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.csproj.CoreCompileInputs.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\refint\Prodact_1.dll
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.pdb
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\Prodact_1.genruntimeconfig.cache
+C:\Users\Н\Documents\женя\geek brains\с#\Prodact_1\obj\Debug\net6.0\ref\Prodact_1.dll
